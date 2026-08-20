@@ -12,7 +12,7 @@
 //Constraints:
 //1 <= nums.length <= 105
 //nums[i] is either 0 or 1.
-public class Solution {
+public class MaxConsecutiveOnes {
     public static void main(String[] args) {
         int []nums = new  int []{1,1,0,1,1,1};
         int temp = 0;
